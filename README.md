@@ -1,7 +1,7 @@
 # Sweet Delights Bakery
 ## A Bakery Shop React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with vite.
 
 ## Getting Started
 
